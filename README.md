@@ -56,7 +56,7 @@ User passwords are **hashed using bcrypt** before storing them in the database.t
  
 ## ⚙️ Installation
 ## Clone the repository
-git clone https://github.com/ThulaseswaraReddy/NodejsAuthentication-System.git
+git clone https://github.com/ThulaseswaraReddy/Nodejs-Authentication-System.git
 
 ## Navigate to project folder
 cd Nodejs-Authentication-System
