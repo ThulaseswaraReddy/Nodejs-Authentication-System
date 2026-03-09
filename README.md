@@ -46,17 +46,17 @@ User passwords are **hashed using bcrypt** before storing them in the database.t
 ## 📷 Screenshots
 
  ### Signup Page
- ![Signup](auth/screenshots/signup.png)
+ ![Signup](screenshots/signup.png)
 
  ### Signin Page
- ![Signin](auth/screenshots/signin.png)
+ ![Signin](screenshots/signin.png)
 
  ### Welcome Page
- ![Welcome](auth/screenshots/welcome.png)
+ ![Welcome](screenshots/welcome.png)
  
 ## ⚙️ Installation
 ## Clone the repository
-git clone https://github.com/Thulaseswara Reddy/Nodejs-Authentication-System.git
+git clone https://github.com/ThulaseswaraReddy/NodejsAuthentication-System.git
 
 ## Navigate to project folder
 cd Nodejs-Authentication-System
