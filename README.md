@@ -16,12 +16,14 @@ User passwords are **hashed using bcrypt** before storing them in the database.t
 ```
 
 ## 🛠 Technologies Used
+```
   👩‍💻Node.js
   👩‍💻 Express.js
   👩‍💻 MongoDB
   👩‍💻bcrypt
   👩‍💻Bootstrap
   👩‍💻HTML
+```
 
 ## 📚 Learning 
 ```
@@ -76,9 +78,11 @@ node server.js
 http://localhost:3000
 
 ## 🔐 Authentication Flow
+```
  👉User opens signup page
  👉User registers with email and password
  👉Password is hashed using bcrypt
  👉Data is stored in MongoDB
  👉User signs in with credentials
  👉If valid → redirected to welcome page
+```
